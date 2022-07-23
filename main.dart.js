@@ -60861,7 +60861,7 @@ A.a6N.prototype={
 $0(){var s=0,r=A.Y(t.H),q=this,p,o,n,m,l
 var $async$$0=A.Z(function(a,b){if(a===1)return A.V(b,r)
 while(true)switch(s){case 0:l=q.a
-s=l.e.length>=256||l.f.length>=256?2:4
+s=l.e.length<=256||l.f.length<=256?2:4
 break
 case 2:p=$.uc
 o=(p==null?$.uc=$.a96():p).xa(0,"[DEFAULT]")

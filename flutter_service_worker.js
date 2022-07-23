@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "85c151ddf57e6e3d7929177dd1a665c5",
-"index.html": "eb0aef8f1235e2be7d7147eef6914330",
-"/": "eb0aef8f1235e2be7d7147eef6914330",
-"main.dart.js": "09d7836b13d8a5ad0e36e84f3008d026",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "c78b569a07d1381d5d5d95e396acc774",
+"/": "c78b569a07d1381d5d5d95e396acc774",
+"main.dart.js": "3312b236f6bf86c7d9ccfb5601af8d32",
 "script.js": "e0e74e833b29bb7f575b8921b39a8809",
 "favicon.png": "99423abe7e2b9574c9d0caef77abe78c",
 "icons/Icon-192.png": "a240dda0d08872c0dec7710d7a251514",
@@ -26,11 +25,7 @@ const RESOURCES = {
 "assets/assets/fonts/manrope/Manrope-SemiBold.ttf": "9e7aaa1e74322a45c153c790fdbacf90",
 "assets/assets/fonts/manrope/Manrope-Regular.ttf": "e506b64ab60eae396e058916603b61cf",
 "assets/assets/fonts/manrope/Manrope-ExtraLight.ttf": "ac1f9121d9c60af8f12abace6296bb5d",
-"assets/assets/fonts/manrope/Manrope-Bold.ttf": "cb17fa4a508de3daf0d9ea64a0ab724e",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/fonts/manrope/Manrope-Bold.ttf": "cb17fa4a508de3daf0d9ea64a0ab724e"
 };
 
 // The application shell files that are downloaded before a service worker can
